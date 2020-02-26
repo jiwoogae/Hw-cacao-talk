@@ -1,0 +1,16 @@
+.M-avartar {
+  width: 43px;
+  height: 43px;
+  border-radius: 15px;
+}
+
+.friends__friend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timeStamp {
+  opacity: 0.4;
+  font-size: 8px;
+}

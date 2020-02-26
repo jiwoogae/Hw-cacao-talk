@@ -1,0 +1,28 @@
+@import "reset.css";
+@import "header.css";
+@import "index.css";
+@import "chats.css";
+@import "channel.css";
+@import "nav.css";
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.screen {
+  width: 316px;
+  height: 1000px;
+  background-color: #ffffff;
+  padding-top: 7px;
+}
