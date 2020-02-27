@@ -1,0 +1,29 @@
+.setting-main {
+  margin-top: 15px;
+}
+
+.setting__top {
+  width: 100%;
+  height: 145px;
+  padding-left: 8px;
+  border-bottom: 1px solid gray;
+}
+
+.setting__top-li {
+  width: 100%;
+  height: 45px;
+  display: flex;
+  align-items: center;
+}
+
+.liTitle {
+  margin-left: 17px;
+}
+
+.setting__bot {
+  margin-top: 14px;
+  width: 100%;
+  height: 311px;
+  padding-left: 8px;
+  border-bottom: 1px solid gray;
+}

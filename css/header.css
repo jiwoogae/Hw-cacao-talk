@@ -46,3 +46,7 @@ header {
   opacity: 0.7;
   margin-left: 19px;
 }
+
+.header__title-column .fa-arrow-left {
+  margin-left: 0px;
+}
