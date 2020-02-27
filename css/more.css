@@ -1,0 +1,73 @@
+.kakaoPay {
+  width: 100%;
+  height: 41px;
+  background-color: #f3f3f3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 9px;
+  margin-bottom: 3px;
+}
+
+.kakaoPay__column:nth-child(1) {
+  width: 104px;
+  height: 27px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding: 7px 11px;
+  border-radius: 12px;
+}
+
+.pay {
+  margin-left: 2px;
+}
+
+.money {
+  margin-left: 4px;
+}
+
+.kakaoPay__column:nth-child(2) {
+  width: 60px;
+  height: 18px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+}
+
+.send {
+  margin-right: 9px;
+}
+
+.cost {
+  margin-left: 9px;
+}
+
+.moreIkons {
+  width: 100%;
+  height: 155px;
+  padding: 0px 11px;
+}
+
+.moreIkons__row {
+  width: 100%;
+  height: 40px;
+  margin-top: 17px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Ikons-one {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Ikons-one i {
+  margin-bottom: 9px;
+}
+
+.Ikons-one span {
+  font-size: 10px;
+}
